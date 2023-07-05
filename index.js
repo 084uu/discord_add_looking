@@ -1,7 +1,3 @@
-/*
-looking on/off program for teti server
-author gyunyu
-*/
 
 require('dotenv').config()
 const token = process.env.DISCORD_TOKEN;
